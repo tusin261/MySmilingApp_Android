@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "143685904899",
+    "project_id": "my-smiling-123",
+    "storage_bucket": "my-smiling-123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143685904899:android:87c66fe1b3879648bffc36",
+        "android_client_info": {
+          "package_name": "com.example.mysmilingapp3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143685904899-pu3d6sn5icff6alli4u2jqkor8msku6c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mysmilingapp3",
+            "certificate_hash": "766200919b6792edc4f971f8da6eeb50d7d363fe"
+          }
+        },
+        {
+          "client_id": "143685904899-u10nvgbqq5r259t6qobuddpjssmspf1r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuh0yf8AKGOMw6_HpXUf0BtPbCcAROMxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143685904899-u10nvgbqq5r259t6qobuddpjssmspf1r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
